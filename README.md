@@ -18,6 +18,8 @@ Faça o download do arquivo 'd6.exe' no diretório 'dist' (dist/d6.exe) que se e
 - O arquivo executável foi criado com a biblioteca [PyInstaller](https://www.pyinstaller.org/en/stable/index.html)
 - Utilizou-se também a biblioteca [time](https://docs.python.org/pt-br/3.9/library/time.html)
     
+## Ícone
+O simpático ícone foi desenhado pela DALL-E e editado para alguns ajustes.
 
 ## Autor
 Célio Zagalo
