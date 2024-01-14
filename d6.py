@@ -17,6 +17,7 @@ for item in abrir:
 
     #abrindo o navegador opera
     if item == 'Navegador Opera GX':
+        time.sleep(4)
         pyautogui.hotkey('ctrl', 'e')
         sites = ('https://firecast.app/sdk3/RRPG%20SDK%203.html',
                  'https://github.com/czagalo')
@@ -33,7 +34,7 @@ for item in abrir:
 
     #abrindo o firecast
     if item == 'Firecast':
-        time.sleep(2)
+        time.sleep(4)
         pyautogui.moveTo(32, 121, duration=2, tween=pyautogui.easeInOutQuad)
         pyautogui.click()
         pyautogui.moveTo(121, 223, duration=2, tween=pyautogui.easeInOutQuad)
@@ -41,7 +42,7 @@ for item in abrir:
 
     #abrindo o explorador de arquivos
     if item == 'Explorador de Arquivos':
-        time.sleep(1)
+        time.sleep(4)
         for tab in range(1, 12):
             pyautogui.PAUSE = 0.3
             pyautogui.press('tab')
