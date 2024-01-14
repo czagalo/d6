@@ -13,13 +13,10 @@ O código está disponível no arquivo d6.py onde as configurações podem ser r
 ## Como usar?
 Faça o download do arquivo 'd6.exe' no diretório 'dist' (dist/d6.exe) que se encontra neste repositório.
 
-## Bibliotecas utiizadas
-Obrigatório instalar a biblioteca:
-  [PyAutoGUI](https://github.com/asweigart/pyautogui/blob/master/docs/index.rst)
-O arquivo executável foi criado com a biblioteca
-  [PyInstaller](https://www.pyinstaller.org/en/stable/index.html)
-Utilizou-se também a biblioteca:
-  [time](https://docs.python.org/pt-br/3.9/library/time.html)
+## Bibliotecas utilizadas
+Obrigatório instalar a biblioteca [PyAutoGUI](https://github.com/asweigart/pyautogui/blob/master/docs/index.rst).
+O arquivo executável foi criado com a biblioteca [PyInstaller](https://www.pyinstaller.org/en/stable/index.html)
+Utilizou-se também a biblioteca [time](https://docs.python.org/pt-br/3.9/library/time.html).
     
 
 ## Autor
