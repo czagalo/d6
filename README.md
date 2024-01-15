@@ -3,8 +3,7 @@ Bot para preparação do ambiente de desenvolvimento para a plataforma Firecast 
 
 ## O que é?
 O d6 é um bot que automatiza o processo de preparação do ambiente de desenvolvimento para a plataforma Firecast RPG. Ele abre todos os programas, diretórios e sites necessários para o desenvolvimento de plugins.
-No link abaixo você poderá ver um vídeo do bot em execução
-[d6](https://www.instagram.com/p/C2Ibz69iCMa/)
+Neste [link](https://www.instagram.com/p/C2Ibz69iCMa/) você poderá assistir um vídeo do bot em execução.
 
 ## Quem pode usar?
 Qualquer pessoa! Porém o d6 foi desenvolvido para trabalhar apenas no meu computador. 
